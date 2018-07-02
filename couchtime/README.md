@@ -88,7 +88,7 @@ Operations are available through a developed API.
 - [ ] Validations  
 - [x] Guidelines and good practices 
 - [x] A [git repo](https://github.com/xavrb/restPlayground)  
-- [ ] TDD  
+- [x] TDD  
 - [x] Use of a dbms 
 
 
