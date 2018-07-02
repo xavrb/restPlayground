@@ -14,6 +14,7 @@ A proof of concept
 | [What can I do on CT](#what-can-i-do-on-ct) |  
 | [To do](#to-do) |  
 | [Will I be hired](#will-i-be-hired) |  
+| [Taking into account](#taking-into-account)  
 | [Licence](#licence)|  
 
 ## Documentation  
@@ -97,6 +98,10 @@ Operations are available through a developed API.
 
 Yes.  
 
+
+### Taking into account  
+
+[This](./toTakeIntoAccount.md)
 
 
 ## Licence
