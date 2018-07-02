@@ -10,8 +10,8 @@ class ModelTestCase(TestCase):
 
     def setUp(self):
         """Define the test client and other test variables."""
-        self.movie_name = "Write world class code"
-        self.movie = Movie(name=self.movie_name)
+        self.title = "An epic movie lolololol"
+        self.movie = Movie(title=self.title)
 
     def test_model_can_create_a_movie(self):
         """Test the movie model can create a movie."""
