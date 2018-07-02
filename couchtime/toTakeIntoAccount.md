@@ -4,7 +4,7 @@
 
 - [ ] No se pueden Buscar películas por datos específicos como id, titulo, etc
 
-- [x] No hay tests aunque incluyo un archivo pero esta vacío  es preferible borrarlo si no se van a contemplar los test's
+- [x] No hay tests aunque incluyo un archivo pero esta vacío  es preferible borrarlo si no se van a contemplar los test's   [](https://github.com/xavrb/restPlayground/commit/0325f8874ec45ac6d67aaccd0bcc0485a364146e)
 
 - [ ] No hay un diseño REST todo entra por /api/movie tanto GETS como POSTS lo cual debería ser
 
