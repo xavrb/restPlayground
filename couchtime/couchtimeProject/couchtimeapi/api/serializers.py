@@ -19,4 +19,4 @@ class MovieSerializer(serializers.ModelSerializer):
         'rating',
         'created_at'
         )
-        read_only_fields = ('created_at')
+        read_only_fields = ('created_at',)
