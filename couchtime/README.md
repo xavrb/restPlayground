@@ -1,4 +1,4 @@
-# couchtime-cnkt-
+# restPlayground
 ![ct-logo](./assets/imgs/branding/ct-logo-banner.png)  
 
 
@@ -17,18 +17,23 @@ A proof of concept
 | [Licence](#licence)|  
 
 ## Documentation  
+![docs](../assets/docs.png)  
 
-[Wiki -- Api documentation](https://github.com/xavrb/couchtime-cnkt/wiki)  
+[Wiki -- Api documentation](https://github.com/xavrb/restPlayground/wiki)  
 Quick Overview  
 
 |Method|  
 |----|  
-|[GET](https://github.com/xavrb/couchtime-cnkt/wiki/Show-movie)|  
-|[POST](https://github.com/xavrb/couchtime-cnkt/wiki/Post-a-movie)|  
+|[GET](https://github.com/xavrb/restPlayground/wiki/Show-movie)|  
+|[POST](https://github.com/xavrb/restPlayground/wiki/Post-a-movie)|  
   
 
-## REST framework
-We are using [TastyPie](https://github.com/django-tastypie/django-tastypie)  
+## REST framework  
+![tools](../assets/tools.png)  
+
+
+
+We are using [Django Rest Framework](http://www.django-rest-framework.org/)  
 
 ## Using the api
 
@@ -45,23 +50,29 @@ You can read more on the [documentation](#documentation). Also you can use your 
   
 
 ## Database (model)  
+![database](../assets/data.png)  
+
+
 Using the default SQLITE django model.  
 
-## What is couch Time 
+## What is couch Time  
+![whatisit](../assets/man-thinking.png)  
+
 
 We all at some point ever wanted to log every movie we liked -- wether you are a fan of Back to the future or maybe Silence of the lambs, even Twilight (no judgement here), it doesn't matter -- so we can talk to our friends on the next party or just to collect watched movies. Enter Couch Time.  
 It’s a simple API and implementation developed in Python Django as a proof of concept  — a technical test, where an user can log their fav movies.  
 
 ## What can I do on CT
+![whatICANDO](../assets/man-thinking.png)  
 
 You can:  
 
-* Register with a name and mail.  
-* Save movies (name, genre, cast, director, year, etc) in a imdb-ish way.  
-* Comment on a saved movie.  
-* Rate a movie `1-5`  
-* Delete movies  
-* Search for movies  
+- [ ] Register with a name and mail.  
+- [ ] Save movies (name, genre, cast, director, year, etc) in a imdb-ish way.  
+- [ ] Comment on a saved movie.  
+- [ ] Rate a movie `1-5`  
+- [ ] Delete movies  
+- [ ] Search for movies  
 
 
 Operations are available through a developed API.  
@@ -69,15 +80,21 @@ Operations are available through a developed API.
 
 
 ## To do  
-* Authentication method  
-* Validations  
-* Guidelines and good practices 
-* A [git repo](https://github.com/xavrb/couchtime-cnkt)  
-* TDD  
-* Use of a dbms 
+![TODO](../assets/to-do.png)  
 
 
-## Will I be hired?
+- [ ] Authentication method  
+- [ ] Validations  
+- [x] Guidelines and good practices 
+- [x] A [git repo](https://github.com/xavrb/restPlayground)  
+- [ ] TDD  
+- [x] Use of a dbms 
+
+
+## Will I be hired?  
+![hired](../assets/resume.png)  
+
+
 Yes.  
 
 
@@ -85,3 +102,7 @@ Yes.
 ## Licence
 
 This is licensed under GPL3.  
+
+
+
+<div>Icons made by <a href="https://www.flaticon.com/authors/zlatko-najdenovski" title="Zlatko Najdenovski">Zlatko Najdenovski</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
